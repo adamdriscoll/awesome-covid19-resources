@@ -38,6 +38,10 @@ Good at-home entertainment.
 - [Musée d'Orsay, Paris Online Exhibits](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
 - [National Gallery of Art Online Exhibits](https://artsandculture.google.com/partner/national-gallery-of-art-washington-dc?hl=en)
 
+### Sports
+
+- [The Race All-Star esports Battle - Australian F1 GP alternative event - 3/15/2020](https://www.youtube.com/watch?v=Hpq9oMLTc-k)
+
 ## Health
 
 Health resources related to COVID19. 
