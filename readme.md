@@ -31,6 +31,12 @@ Good at-home entertainment.
 - [Nightly Met Opera Streams](https://www.metopera.org/about/press-releases/met-to-launch-nightly-met-opera-streams-a-free-series-of-encore-live-in-hd-presentations-streamed-on-the-company-website-during-the-coronavirus-closure/)
 - [Pokemon Go](https://pokemongolive.com/en/post/updatedevents-abracommunityday)
 
+### Museums
+
+- [British Museum Virtual Tour](https://britishmuseum.withgoogle.com/)
+- [Musée d’Orsay, Paris Online Exhibits](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
+- [National Gallery of Art Online Exhibits](https://artsandculture.google.com/partner/national-gallery-of-art-washington-dc?hl=en)
+
 ## Health
 
 Health resources related to COVID19. 
