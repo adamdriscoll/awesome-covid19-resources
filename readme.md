@@ -67,6 +67,8 @@ Benefits provided by utilities.
 
 ## Work From Home 
 
+### Conferences
+
 ### Guides
 
 - [Super Evil Mega Corp Q1 2020 Remote First Guidelines](https://www.superevilmegacorp.com/blog/2020/3/4/sharing-our-remote-first-processes-tools-and-guidelines-for-fellow-corona-dodgers)
