@@ -69,7 +69,7 @@ Benefits provided by utilities.
 ### Data
 
 - [Proximus (Belgium) - Unlimited Internet, Calls, TV](https://www.proximus.be/en/id_b_cr_proximus_helps/personal/blog/news/be-the-first-to-know/proximus-helps.html)
-- [Comcast Increased Internet Speeds](https://www.theverge.com/2020/3/12/21177524/comcast-internet-essentials-speed-increase-coronavirus)
+- [Comcast Infinity WiFi for Free](https://corporate.comcast.com/covid-19)
 - [T-Mobile Unlimited Data](https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response)
 
 ### Electricity
