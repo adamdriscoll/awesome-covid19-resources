@@ -94,6 +94,7 @@ Benefits provided by utilities.
 - [Box](https://blog.box.com/box-response-covid-19)
 - [Microsoft Teams - Free 6 Months](https://www.pcworld.com/article/3530374/microsofts-solution-for-covid-19-is-a-free-teams-subscription-for-six-months.html)
 - [Slack](https://slackhq.com/business-continuity-plan-covid-19)
+- [Zoom - Free for K-12 Schools](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
 
 ## Contribute
 
