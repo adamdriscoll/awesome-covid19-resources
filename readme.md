@@ -71,7 +71,13 @@ Benefits provided by utilities.
 
 ## Work From Home 
 
-### Conferences
+### Online Conferences
+
+- [Apple WWDC20](https://developer.apple.com/wwdc20/)
+- [Game Developers Conference 2020](https://gdconf.com/news/game-developers-conference-2020-announces-virtual-awards-and-talk-schedule)
+- [Google Cloud Next '20)[https://cloud.withgoogle.com/next/sf]
+- [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
 
 ### Guides
 
