@@ -42,6 +42,7 @@ Good at-home entertainment.
 Health resources related to COVID19. 
 
 - [Alberta COVID-19 Self Assessment](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx?fbclid=IwAR0axU0zsL2k8XTySooWoNSs0O_u6DnTNqpQYMoc4bD2oeCpj_UDHvksfZ4)
+- [USA CDC List of Local Health Departments](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html)
 
 ## Supplies
 
