@@ -86,6 +86,7 @@ Benefits provided by utilities.
 - [Google Cloud Next '20](https://cloud.withgoogle.com/next/sf)
 - [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 - [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
+- [VirSecCon2020](https://virseccon.com/)
 
 ### Guides
 
