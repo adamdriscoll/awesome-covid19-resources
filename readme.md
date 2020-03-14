@@ -41,6 +41,10 @@ Health resources related to COVID19.
 
 Information about supplies.
 
+### Tips for Finding Supplies
+
+- Check the travel section of stores for hand wipes and sanitizer if the cleaning section is out.
+
 ### Hand Sanitizer
 
 - [Durham Distillery Hand Sanitizer](https://durhamdistillery.com/pages/covid-19-sanitizing-solution-donation-program)
