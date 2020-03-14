@@ -35,7 +35,7 @@ Good at-home entertainment.
 ### Museums
 
 - [British Museum Virtual Tour](https://britishmuseum.withgoogle.com/)
-- [Musée d’Orsay, Paris Online Exhibits](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
+- [Musée d'Orsay, Paris Online Exhibits](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
 - [National Gallery of Art Online Exhibits](https://artsandculture.google.com/partner/national-gallery-of-art-washington-dc?hl=en)
 
 ## Health
@@ -96,7 +96,9 @@ Benefits provided by utilities.
 - [Box](https://blog.box.com/box-response-covid-19)
 - [Microsoft Teams - Free 6 Months](https://www.pcworld.com/article/3530374/microsofts-solution-for-covid-19-is-a-free-teams-subscription-for-six-months.html)
 - [Slack](https://slackhq.com/business-continuity-plan-covid-19)
+- [TechSmith - SnagIt, VideoReview free until end of June](https://discover.techsmith.com/remote-techsmith)
 - [Zoom - Free for K-12 Schools](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+
 
 ## Contribute
 
