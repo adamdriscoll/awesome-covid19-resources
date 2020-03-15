@@ -1,4 +1,4 @@
-# Awesome COVID19 Response Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome List of COVID19 Response Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Great resources for responding to COVID19 during the pandemic. 
 
