@@ -64,6 +64,10 @@ Health resources related to COVID19.
 - [Alberta COVID-19 Self Assessment](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx?fbclid=IwAR0axU0zsL2k8XTySooWoNSs0O_u6DnTNqpQYMoc4bD2oeCpj_UDHvksfZ4)
 - [USA CDC List of Local Health Departments](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html)
 
+### Exercise 
+
+- [MODO YOGA NYC - Free Online Yoga](https://modoyoga.com/nyc/)
+
 ## Religion 
 
 - [Vatican News YouTube Channel - Online Mass](https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ)
