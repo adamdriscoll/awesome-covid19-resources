@@ -32,6 +32,12 @@ Good at-home entertainment.
 - [Grand Ole Opry - Saturday Night Radio](https://www.opry.com/covid19/?2020-03-14-1140)
 - [Libby - Free Library Access](https://apps.apple.com/app/id1076402606?fbclid=IwAR1KghNvPWqreuKvjJwg2xN0POCxRxkp019YtzTGsACRXAO_mEp-5rOTYBo)
 - [Nightly Met Opera Streams](https://www.metopera.org/about/press-releases/met-to-launch-nightly-met-opera-streams-a-free-series-of-encore-live-in-hd-presentations-streamed-on-the-company-website-during-the-coronavirus-closure/)
+
+### Games 
+
+Free games to play. 
+
+- [MTG Arena](https://magic.wizards.com/en/mtgarena)
 - [Pokemon Go](https://pokemongolive.com/en/post/updatedevents-abracommunityday)
 
 ### Museums
