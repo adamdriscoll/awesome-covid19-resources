@@ -66,7 +66,7 @@ Health resources related to COVID19.
 
 ### Exercise 
 
-- [MODO YOGA NYC - Free Online Yoga](https://modoyoga.com/nyc/)
+- [MODO YOGA NYC - Online Yoga](https://modoyoga.com/nyc/)
 
 ## Religion 
 
