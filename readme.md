@@ -67,6 +67,7 @@ Health resources related to COVID19.
 ## Religion 
 
 - [Vatican News YouTube Channel - Online Mass](https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ)
+- [The Muslim Council of Britain - GUIDANCE FOR MOSQUES/MADRASAS AND UMRAH PILGRIMS](https://mcb.org.uk/mcb-updates/coronavirus-guidance-for-mosques-and-madrassas/)
 
 ## Supplies
 
