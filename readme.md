@@ -13,6 +13,7 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 - [Get Involved](#get-involved)
 - [Entertainment](#entertainment)
 - [Health](#health)
+- [Relgion](#religion)
 - [Supplies](#supplies)
 - [Utilities](#utilities)
 - [Work from Home](#work-from-home)
@@ -48,6 +49,10 @@ Health resources related to COVID19.
 
 - [Alberta COVID-19 Self Assessment](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx?fbclid=IwAR0axU0zsL2k8XTySooWoNSs0O_u6DnTNqpQYMoc4bD2oeCpj_UDHvksfZ4)
 - [USA CDC List of Local Health Departments](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html)
+
+## Religion 
+
+- [Vatican News YouTube Channel - Online Mass](https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ)
 
 ## Supplies
 
