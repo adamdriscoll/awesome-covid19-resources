@@ -11,6 +11,7 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 ## Contents
 
 - [Get Involved](#get-involved)
+- [Education](#education)
 - [Entertainment](#entertainment)
 - [Health](#health)
 - [Religion](#religion)
@@ -23,6 +24,10 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 Ways to help support others. 
 
 - [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
+
+## Education 
+
+- [Amazing Educational Resources](http://www.amazingeducationalresources.com/)
 
 ## Entertainment
 
