@@ -28,6 +28,7 @@ Ways to help support others.
 ## Education 
 
 - [Amazing Educational Resources](http://www.amazingeducationalresources.com/)
+- [Scholastic Learning at Home](https://classroommagazines.scholastic.com/support/learnathome.html)
 
 ## Entertainment
 
