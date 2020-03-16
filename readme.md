@@ -94,6 +94,7 @@ Benefits provided by utilities.
 - [Airbnb Extenuating Circumstances Policy](https://news.airbnb.com/extenuating-circumstances-policy-activated-around-the-world/)
 - [Enterprise College Student Travel Assistance](https://www.enterprise.com/en/car-rental/deals/young-driver.html)
 - [Rekola (Czech) - Free Bikes](https://www.rekola.cz/)
+- [TripIt Pro](https://www.tripit.com/web/covid-19-update)
 
 ### Data
 
