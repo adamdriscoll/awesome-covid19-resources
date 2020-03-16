@@ -15,6 +15,7 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 - [Entertainment](#entertainment)
 - [Food](#food)
 - [Health](#health)
+- [Housing](#housing)
 - [Religion](#religion)
 - [Supplies](#supplies)
 - [Utilities](#utilities)
@@ -81,6 +82,10 @@ Health resources related to COVID19.
 
 - [Alberta COVID-19 Self Assessment](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx?fbclid=IwAR0axU0zsL2k8XTySooWoNSs0O_u6DnTNqpQYMoc4bD2oeCpj_UDHvksfZ4)
 - [USA CDC List of Local Health Departments](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html)
+
+## Housing 
+
+- [Zeus Living - College Student Discounts](https://zeusliving.com/cities/university-2020)
 
 ### Exercise 
 
