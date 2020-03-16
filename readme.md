@@ -136,6 +136,7 @@ Benefits provided by utilities.
 - [Box](https://blog.box.com/box-response-covid-19)
 - [Microsoft Teams - Free 6 Months](https://www.pcworld.com/article/3530374/microsofts-solution-for-covid-19-is-a-free-teams-subscription-for-six-months.html)
 - [Mindhive - Free Premium+](https://blog.mindhive.org/mindhive-is-offering-free-premium-during-covid-19-pandemic)
+- [Reaper - Free License until June 2020](https://www.reaper.fm/)
 - [Slack](https://slackhq.com/business-continuity-plan-covid-19)
 - [TechSmith - SnagIt, VideoReview free until end of June](https://discover.techsmith.com/remote-techsmith)
 - [Zoom - Free for K-12 Schools](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
