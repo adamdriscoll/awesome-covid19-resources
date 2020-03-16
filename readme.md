@@ -34,6 +34,7 @@ Ways to help support others.
 - [Amazing Educational Resources](http://www.amazingeducationalresources.com/)
 - [Cincinnati Zoo & Botanical Garden Facebook Live](https://www.facebook.com/cincinnatizoo/posts/10158043843010479?hc_location=ufi)
 - [Free Ivy League Courses](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/?fbclid=IwAR2cV8gDyCjQQDdAyo-PsT8Xu9dNmeBHTqj2a7fBpC2weUsWF69dy9ylur4) 
+- [GitHub Education](https://education.github.com/benefits)
 - [Minecraft: Educational Edition - Free Until June](https://education.minecraft.net/blog/microsoft-extends-access-to-minecraft-education-edition-and-resources-to-support-remote-learning)
 - [The Kids Should See This](https://thekidshouldseethis.com/)
 - [Scholastic Learning at Home](https://classroommagazines.scholastic.com/support/learnathome.html)
