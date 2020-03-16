@@ -142,6 +142,7 @@ Benefits provided by utilities.
 
 - [Apple WWDC20](https://developer.apple.com/wwdc20/)
 - [Game Developers Conference 2020](https://gdconf.com/news/game-developers-conference-2020-announces-virtual-awards-and-talk-schedule)
+- [GDC 2020 Virtual Talks](https://www.twitch.tv/GDC)
 - [Google Cloud Next '20](https://cloud.withgoogle.com/next/sf)
 - [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 - [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
