@@ -45,6 +45,10 @@ Good at-home entertainment.
 - [Libby - Free Library Access](https://apps.apple.com/app/id1076402606?fbclid=IwAR1KghNvPWqreuKvjJwg2xN0POCxRxkp019YtzTGsACRXAO_mEp-5rOTYBo)
 - [Nightly Met Opera Streams](https://www.metopera.org/about/press-releases/met-to-launch-nightly-met-opera-streams-a-free-series-of-encore-live-in-hd-presentations-streamed-on-the-company-website-during-the-coronavirus-closure/)
 
+### Events
+
+- [Dropkick Murphys - Free Live Stream Concert 3-17-2020](http://www.dropkickmurphys.com/2020/03/14/streaming-up-from-boston-free-st-patricks-day-live-stream/)
+
 ## Food
 
 - [Grubhub - Suspending Commissions](https://media.grubhub.com/media/press-releases/press-release-details/2020/Grubhub-and-Major-Cities-Across-the-US-Launch-Economic-Relief-Effort-up-to-100-Million-for-Independent-Restaurants-and-Delivery-Partners-Impacted-by-COVID-19/default.aspx)
