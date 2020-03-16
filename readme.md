@@ -50,7 +50,6 @@ Good at-home entertainment.
 Free games to play. 
 
 - [MTG Arena](https://magic.wizards.com/en/mtgarena)
-- [Pokemon Go](https://pokemongolive.com/en/post/updatedevents-abracommunityday)
 - [Steam Free to Play](https://store.steampowered.com/genre/Free%20to%20Play/)
 
 ### Museums
