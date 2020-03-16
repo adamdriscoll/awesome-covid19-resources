@@ -62,7 +62,7 @@ Free games to play.
 
 - [The Race All-Star esports Battle - Australian F1 GP alternative event - 3/15/2020](https://www.youtube.com/watch?v=Hpq9oMLTc-k)
 
-### Walking Tours
+### Virtual Walking Tours
 
 - [Silent Walker - YouTube](https://www.youtube.com/channel/UCqd3PhBFMN4StMCJKh6Waww)
 
