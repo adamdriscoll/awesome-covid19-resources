@@ -11,6 +11,7 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 ## Contents
 
 - [Get Involved](#get-involved)
+- [Books](#books)
 - [Education](#education)
 - [Entertainment](#entertainment)
 - [Food](#food)
@@ -27,6 +28,10 @@ Ways to help support others.
 
 - [Coronavirus (COVID-19) Volunteering & Mutual Aid Directory](https://www.coronavolunteer.org/)
 - [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
+
+## Books
+
+- [SMBC COVID-19 Book Pack](https://www.smbc-comics.com/covid/)
 
 ## Education 
 
