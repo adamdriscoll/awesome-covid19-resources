@@ -143,6 +143,7 @@ Benefits provided by utilities.
 ### Online Conferences
 
 - [Apple WWDC20](https://developer.apple.com/wwdc20/)
+- [Citrix Synergy](https://www.citrix.com/blogs/2020/03/17/update-on-citrix-synergy-2020/)
 - [Game Developers Conference 2020](https://gdconf.com/news/game-developers-conference-2020-announces-virtual-awards-and-talk-schedule)
 - [GDC 2020 Virtual Talks](https://www.twitch.tv/GDC)
 - [Google Cloud Next '20](https://cloud.withgoogle.com/next/sf)
