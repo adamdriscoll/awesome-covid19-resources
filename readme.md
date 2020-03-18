@@ -30,6 +30,7 @@ Ways to help support others.
 - [Backpack Lunch](https://app.backpacklunch.com/)
 - [Coronavirus (COVID-19) Volunteering & Mutual Aid Directory](https://www.coronavolunteer.org/)
 - [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
+- [Help with COVID](https://helpwithcovid.com/)
 
 ## Books
 
