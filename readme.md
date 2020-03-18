@@ -162,7 +162,7 @@ Benefits provided by utilities.
 - [Basecamp for COVID19 Responders](https://twitter.com/dhh/status/1240352269704388608?s=20)
 - [Box](https://blog.box.com/box-response-covid-19)
 - [Discourse - 3 Months free for schools](https://twitter.com/discourse/status/1239661198317989889?s=20)
-- [Ericom AccessNode - 6 Months Free](https://www.ericom.com/business-continuity-tips/?utm_campaign=Oktopost-Secure+Browsing&utm_content=Oktopost-twitter-&utm_medium=social&utm_source=twitter)
+- [Ericom AccessNow - 6 Months Free](https://www.ericom.com/business-continuity-tips/?utm_campaign=Oktopost-Secure+Browsing&utm_content=Oktopost-twitter-&utm_medium=social&utm_source=twitter)
 - [Microsoft Teams - Free 6 Months](https://www.pcworld.com/article/3530374/microsofts-solution-for-covid-19-is-a-free-teams-subscription-for-six-months.html)
 - [Mindhive - Free Premium+](https://blog.mindhive.org/mindhive-is-offering-free-premium-during-covid-19-pandemic)
 - [Reaper - Free License until June 2020](https://www.reaper.fm/)
