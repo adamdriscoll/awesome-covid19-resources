@@ -28,6 +28,8 @@ Ways to help support others.
 
 - [Coronavirus (COVID-19) Volunteering & Mutual Aid Directory](https://www.coronavolunteer.org/)
 - [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
+- [Rosetta@Home](https://boinc.bakerlab.org/)
+- (Italian) [Temporary volunteer for Italian Red Cross](https://volontari.cri.it/)
 
 ## Books
 
@@ -67,12 +69,23 @@ Free games to play.
 
 - [MTG Arena](https://magic.wizards.com/en/mtgarena)
 - [Steam Free to Play](https://store.steampowered.com/genre/Free%20to%20Play/)
+- [OpenTTD](https://www.openttd.org/)
+- [OpenRA](https://www.openra.net/)
+- [OpenArena](http://www.openarena.ws/smfnews.php)
+- [FreeCiv](http://www.freeciv.org/)
+- [0 A.D.](https://play0ad.com/)
 
 ### Museums
 
 - [British Museum Virtual Tour](https://britishmuseum.withgoogle.com/)
 - [Musée d'Orsay, Paris Online Exhibits](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
 - [National Gallery of Art Online Exhibits](https://artsandculture.google.com/partner/national-gallery-of-art-washington-dc?hl=en)
+- [Vatican Museums Virtual Tour](http://www.museivaticani.va/content/museivaticani/en/collezioni/musei/tour-virtuali-elenco.html)
+- [Uffizi Gallery, Florence](https://www.uffizi.it/en/online-exhibitions)
+- [Pinacoteca di Brera, Milan](https://pinacotecabrera.org/collezioni/)
+- [Museo del Prado, Madrid](https://www.museodelprado.es/en/the-collection/art-works)
+- [Louvre, Paris](https://www.louvre.fr/en/visites-en-ligne)
+- [Metropolitan Museum of Arts, New York](https://artsandculture.google.com/partner/the-metropolitan-museum-of-art)
 
 ### Sports
 
@@ -113,6 +126,7 @@ Information about supplies.
 ### Hand Sanitizer
 
 - [Durham Distillery Hand Sanitizer](https://durhamdistillery.com/pages/covid-19-sanitizing-solution-donation-program)
+- [WHO recipe for homemade Hand Sanitizer](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf)
 
 ## Utilities
 
