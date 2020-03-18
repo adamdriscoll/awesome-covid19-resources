@@ -48,6 +48,7 @@ Virtual conferences you can attend online.
 - [PancakesCon 2020](https://tisiphone.net/2020/03/15/pancakescon-2020-quarantine-edition/)
 - [Pluralsight - Free Conferences and Conference Hosting](https://learn.pluralsight.com/conference-offers/2020/conferences)
 - [VirSecCon2020](https://virseccon.com/)
+- [Virtual LobbyCon - 3-18 17:00 EST](https://twitter.com/RayRedacted/status/1240346151167168514?s=20)
 
 ## Education 
 
