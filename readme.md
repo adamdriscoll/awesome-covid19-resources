@@ -93,6 +93,8 @@ Free games to play.
 
 ### Sports
 
+- [NFL Game Pass - Free until 5-31](https://profootballtalk.nbcsports.com/2020/03/18/nfl-offering-complimentary-access-to-nfl-game-pass/)
+
 ### Virtual Walking Tours
 
 - [Silent Walker - YouTube](https://www.youtube.com/channel/UCqd3PhBFMN4StMCJKh6Waww)
