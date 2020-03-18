@@ -73,8 +73,6 @@ Good at-home entertainment.
 
 ### Events
 
-- [Dropkick Murphys - Free Live Stream Concert 3-17-2020](http://www.dropkickmurphys.com/2020/03/14/streaming-up-from-boston-free-st-patricks-day-live-stream/)
-
 ## Food
 
 - [Grubhub - Suspending Commissions](https://media.grubhub.com/media/press-releases/press-release-details/2020/Grubhub-and-Major-Cities-Across-the-US-Launch-Economic-Relief-Effort-up-to-100-Million-for-Independent-Restaurants-and-Delivery-Partners-Impacted-by-COVID-19/default.aspx)
@@ -93,8 +91,6 @@ Free games to play.
 - [National Gallery of Art Online Exhibits](https://artsandculture.google.com/partner/national-gallery-of-art-washington-dc?hl=en)
 
 ### Sports
-
-- [The Race All-Star esports Battle - Australian F1 GP alternative event - 3/15/2020](https://www.youtube.com/watch?v=Hpq9oMLTc-k)
 
 ### Virtual Walking Tours
 
