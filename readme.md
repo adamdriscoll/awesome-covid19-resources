@@ -36,6 +36,8 @@ Ways to help support others.
 
 ## Conferences
 
+Virtual conferences you can attend online. 
+
 - [Apple WWDC20](https://developer.apple.com/wwdc20/)
 - [Citrix Synergy](https://www.citrix.com/blogs/2020/03/17/update-on-citrix-synergy-2020/)
 - [Game Developers Conference 2020](https://gdconf.com/news/game-developers-conference-2020-announces-virtual-awards-and-talk-schedule)
