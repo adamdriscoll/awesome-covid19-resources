@@ -12,6 +12,7 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 
 - [Get Involved](#get-involved)
 - [Books](#books)
+- [Conferences](#conferences)
 - [Education](#education)
 - [Entertainment](#entertainment)
 - [Food](#food)
@@ -32,6 +33,19 @@ Ways to help support others.
 ## Books
 
 - [SMBC COVID-19 Book Pack](https://www.smbc-comics.com/covid/)
+
+## Conferences
+
+- [Apple WWDC20](https://developer.apple.com/wwdc20/)
+- [Citrix Synergy](https://www.citrix.com/blogs/2020/03/17/update-on-citrix-synergy-2020/)
+- [Game Developers Conference 2020](https://gdconf.com/news/game-developers-conference-2020-announces-virtual-awards-and-talk-schedule)
+- [GDC 2020 Virtual Talks](https://www.twitch.tv/GDC)
+- [Google Cloud Next '20](https://cloud.withgoogle.com/next/sf)
+- [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
+- [PancakesCon 2020](https://tisiphone.net/2020/03/15/pancakescon-2020-quarantine-edition/)
+- [Pluralsight - Free Conferences and Conference Hosting](https://learn.pluralsight.com/conference-offers/2020/conferences)
+- [VirSecCon2020](https://virseccon.com/)
 
 ## Education 
 
@@ -139,19 +153,6 @@ Benefits provided by utilities.
 - [PG&E - Moratorium on Customer Shutoffs](https://www.pge.com/en/about/newsroom/newsdetails/index.page?title=20200312_pges_pandemic_response_includes_precautionary_health_and_safety_actions_moratorium_on_customer_shutoffs_for_nonpayment)
 
 ## Work From Home 
-
-### Online Conferences
-
-- [Apple WWDC20](https://developer.apple.com/wwdc20/)
-- [Citrix Synergy](https://www.citrix.com/blogs/2020/03/17/update-on-citrix-synergy-2020/)
-- [Game Developers Conference 2020](https://gdconf.com/news/game-developers-conference-2020-announces-virtual-awards-and-talk-schedule)
-- [GDC 2020 Virtual Talks](https://www.twitch.tv/GDC)
-- [Google Cloud Next '20](https://cloud.withgoogle.com/next/sf)
-- [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-- [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
-- [PancakesCon 2020](https://tisiphone.net/2020/03/15/pancakescon-2020-quarantine-edition/)
-- [Pluralsight - Free Conferences and Conference Hosting](https://learn.pluralsight.com/conference-offers/2020/conferences)
-- [VirSecCon2020](https://virseccon.com/)
 
 ### Guides
 
