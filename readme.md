@@ -135,6 +135,7 @@ Information about supplies.
 ### Hand Sanitizer
 
 - [Durham Distillery Hand Sanitizer](https://durhamdistillery.com/pages/covid-19-sanitizing-solution-donation-program)
+- [Eight Oaks - Hand Sanitizer Project](https://eightoaksdistillery.com/donate-to-the-hand-sanitizer-project)
 
 ## Utilities
 
