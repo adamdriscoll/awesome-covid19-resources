@@ -116,6 +116,7 @@ Health resources related to COVID19.
 
 ### Exercise 
 
+- [FitBit - Free Bodyweight Workouts](https://www.fitbod.me/blog/fitbod-covid19-response)
 - [MODO YOGA NYC - Online Yoga](https://modoyoga.com/nyc/)
 
 ## Religion 
