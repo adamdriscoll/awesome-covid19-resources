@@ -46,6 +46,7 @@ Virtual conferences you can attend online.
 - [GDC 2020 Virtual Talks](https://www.twitch.tv/GDC)
 - [Google Cloud Next '20](https://cloud.withgoogle.com/next/sf)
 - [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- [Make Code Online Learning Resources](https://makecode.com/blog/online-learning)
 - [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
 - [PancakesCon 2020](https://tisiphone.net/2020/03/15/pancakescon-2020-quarantine-edition/)
 - [Pluralsight - Free Conferences and Conference Hosting](https://learn.pluralsight.com/conference-offers/2020/conferences)
