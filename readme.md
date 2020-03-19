@@ -31,6 +31,7 @@ Ways to help support others.
 - [Coronavirus (COVID-19) Volunteering & Mutual Aid Directory](https://www.coronavolunteer.org/)
 - [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
 - [Help with COVID](https://helpwithcovid.com/)
+- [Nextdoor Help Map](https://blog.nextdoor.com/2020/03/18/nextdoor-launches-help-map-and-groups-to-bring-neighbors-together/)
 
 ## Books
 
