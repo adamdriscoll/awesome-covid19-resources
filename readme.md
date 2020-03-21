@@ -177,6 +177,7 @@ Benefits provided by utilities.
 - [Mindhive - Free Premium+](https://blog.mindhive.org/mindhive-is-offering-free-premium-during-covid-19-pandemic)
 - [Reaper - Free License until June 2020](https://www.reaper.fm/)
 - [Slack](https://slackhq.com/business-continuity-plan-covid-19)
+- [Slack - Free for Nonprofits](https://slackhq.com/nonprofits-offer-paid-slack-plans-free)
 - [TechSmith - SnagIt, VideoReview free until end of June](https://discover.techsmith.com/remote-techsmith)
 - [Zencastr](http://blog.zencastr.com/blog/2020/3/17/corona-virus-response-were-lifting-limits-for-hobbyist-users)
 - [Zoom - Free for K-12 Schools](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
