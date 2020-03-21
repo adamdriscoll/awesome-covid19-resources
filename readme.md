@@ -111,6 +111,7 @@ Health resources related to COVID19.
 
 - [Alberta COVID-19 Self Assessment](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx?fbclid=IwAR0axU0zsL2k8XTySooWoNSs0O_u6DnTNqpQYMoc4bD2oeCpj_UDHvksfZ4)
 - [Carbon Health - Find a Coronavirus Testing Center](https://carbonhealth.com/coronavirus/covid-19-testing-centers)
+- [Stay at home, stay fit by Arnold Schwarzenegger](https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [USA CDC List of Local Health Departments](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html)
 
 ## Housing 
