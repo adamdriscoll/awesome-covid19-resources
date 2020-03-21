@@ -47,11 +47,11 @@ Virtual conferences you can attend online.
 - [GDC 2020 Virtual Talks](https://www.twitch.tv/GDC)
 - [Google Cloud Next '20](https://cloud.withgoogle.com/next/sf)
 - [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- [The Live Coders Conference - 4-9-2020](https://www.subscribepage.com/lcc2020)
 - [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
 - [PancakesCon 2020](https://tisiphone.net/2020/03/15/pancakescon-2020-quarantine-edition/)
 - [Pluralsight - Free Conferences and Conference Hosting](https://learn.pluralsight.com/conference-offers/2020/conferences)
 - [VirSecCon2020](https://virseccon.com/)
-- [Virtual LobbyCon - 3-18 17:00 EST](https://twitter.com/RayRedacted/status/1240346151167168514?s=20)
 
 ## Education 
 
