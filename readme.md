@@ -51,6 +51,7 @@ Virtual conferences you can attend online.
 - [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
 - [PancakesCon 2020](https://tisiphone.net/2020/03/15/pancakescon-2020-quarantine-edition/)
 - [Pluralsight - Free Conferences and Conference Hosting](https://learn.pluralsight.com/conference-offers/2020/conferences)
+- [Stay At Home Conf](https://stayathomeconf.com)
 - [VirSecCon2020](https://virseccon.com/)
 
 ## Education 
