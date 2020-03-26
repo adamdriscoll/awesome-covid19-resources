@@ -67,6 +67,7 @@ Virtual conferences you can attend online.
 - [Minecraft: Educational Edition - Free Until June](https://education.minecraft.net/blog/microsoft-extends-access-to-minecraft-education-edition-and-resources-to-support-remote-learning)
 - [The Kids Should See This](https://thekidshouldseethis.com/)
 - [Scholastic Learning at Home](https://classroommagazines.scholastic.com/support/learnathome.html)
+- [Unity Learn - Free for 3 months](https://learn.unity.com/)
 
 ## Entertainment
 
