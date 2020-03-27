@@ -64,7 +64,6 @@ Virtual conferences you can attend online.
 - [Gamilab - create and share online educational games](https://gamilab.com)
 - [GitHub Education](https://education.github.com/benefits)
 - [Khan Academy](https://twitter.com/BillGates/status/1240305103313072128?s=20)
-- [ikids Virtual STEAM Class - Mar 20, 1:30 PM – 3:00 PM](https://www.thespur.com/events/ikids-virtual-steam-class?utm_medium=social&utm_source=twitter&utm_campaign=postfity&utm_content=postfityd2725)
 - [Make Code Online Learning Resources](https://makecode.com/blog/online-learning)
 - [Minecraft: Educational Edition - Free Until June](https://education.minecraft.net/blog/microsoft-extends-access-to-minecraft-education-edition-and-resources-to-support-remote-learning)
 - [The Kids Should See This](https://thekidshouldseethis.com/)
