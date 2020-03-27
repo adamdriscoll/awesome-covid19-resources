@@ -54,6 +54,7 @@ Virtual conferences you can attend online.
 - [Pluralsight - Free Conferences and Conference Hosting](https://learn.pluralsight.com/conference-offers/2020/conferences)
 - [Stay At Home Conf](https://stayathomeconf.com)
 - [VirSecCon2020](https://virseccon.com/)
+- [Virtual VDI Performance Summit - 4-2-2020](https://www.vdiperformancesummit.com/)
 
 ## Education 
 
