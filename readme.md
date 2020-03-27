@@ -46,6 +46,7 @@ Virtual conferences you can attend online.
 - [Game Developers Conference 2020](https://gdconf.com/news/game-developers-conference-2020-announces-virtual-awards-and-talk-schedule)
 - [GDC 2020 Virtual Talks](https://www.twitch.tv/GDC)
 - [Google Cloud Next '20](https://cloud.withgoogle.com/next/sf)
+- [GroupBy 2020 - 5-12,13-2020](https://groupby.org/conference-session-abstracts/groupby-moderators/)
 - [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 - [The Live Coders Conference - 4-9-2020](https://www.subscribepage.com/lcc2020)
 - [Microsoft Build 2020](https://www.microsoft.com/en-us/build)
