@@ -69,6 +69,7 @@ Virtual conferences you can attend online.
 - [Make Code Online Learning Resources](https://makecode.com/blog/online-learning)
 - [Math Antics](https://mathantics.com/), [YouTube Channel](https://t.co/HtMpVKGEOu?amp=1)
 - [Minecraft: Educational Edition - Free Until June](https://education.minecraft.net/blog/microsoft-extends-access-to-minecraft-education-edition-and-resources-to-support-remote-learning)
+- [Pluralsight - Free April](https://www.pluralsight.com/blog/news/stay-home-skill-up-for-free)
 - [The Kids Should See This](https://thekidshouldseethis.com/)
 - [Scholastic Learning at Home](https://classroommagazines.scholastic.com/support/learnathome.html)
 - [Unity Learn - Free for 3 months](https://learn.unity.com/)
