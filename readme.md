@@ -88,6 +88,9 @@ Good at-home entertainment.
 
 ### Events
 
+- [Brad Paisley - Dive Bar Tour Home Edition - 4-3 9:00 PM Eastern](https://twitter.com/BradPaisley/status/1245744347187994624?s=20)
+- [Untappd Happy Hour - 4-2 7:00 PM Eastern](https://untappd.zoom.us/webinar/register/5215857559622/WN_H3k2IE34SQS9GJUvduSorw)
+
 ## Food
 
 - [Grubhub - Suspending Commissions](https://media.grubhub.com/media/press-releases/press-release-details/2020/Grubhub-and-Major-Cities-Across-the-US-Launch-Economic-Relief-Effort-up-to-100-Million-for-Independent-Restaurants-and-Delivery-Partners-Impacted-by-COVID-19/default.aspx)
