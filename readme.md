@@ -99,7 +99,7 @@ Good at-home entertainment.
 ### Games 
 
 Free games to play. 
-
+- [Board Game Arena](https://en.boardgamearena.com/)
 - [MTG Arena](https://magic.wizards.com/en/mtgarena)
 - [Steam Free to Play](https://store.steampowered.com/genre/Free%20to%20Play/)
 
@@ -145,6 +145,7 @@ Information about supplies.
 ### Tips for Finding Supplies
 
 - Check the travel section of stores for hand wipes and sanitizer if the cleaning section is out.
+- [NowInStock](http://www.nowinstock.net/) now has Coronavirus Related Trackers
 
 ### Hand Sanitizer
 
@@ -191,6 +192,7 @@ Benefits provided by utilities.
 - [Slack](https://slackhq.com/business-continuity-plan-covid-19)
 - [Slack - Free for Nonprofits](https://slackhq.com/nonprofits-offer-paid-slack-plans-free)
 - [TechSmith - SnagIt, VideoReview free until end of June](https://discover.techsmith.com/remote-techsmith)
+- [Webex is Free](https://www.webex.com/go-covid19.html)
 - [Zencastr](http://blog.zencastr.com/blog/2020/3/17/corona-virus-response-were-lifting-limits-for-hobbyist-users)
 - [Zoom - Free for K-12 Schools](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
 
