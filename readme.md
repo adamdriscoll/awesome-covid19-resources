@@ -171,7 +171,7 @@ Benefits provided by utilities.
 - [Duke Energy - Moratorium on Customer Shutoffs](https://twitter.com/DukeEnergy/status/1238529972043743233?s=20)
 - [PG&E - Moratorium on Customer Shutoffs](https://www.pge.com/en/about/newsroom/newsdetails/index.page?title=20200312_pges_pandemic_response_includes_precautionary_health_and_safety_actions_moratorium_on_customer_shutoffs_for_nonpayment)
 
-## Work From Home 
+## Work From Home
 
 ### Guides
 
@@ -189,6 +189,7 @@ Benefits provided by utilities.
 - [Reaper - Free License until June 2020](https://www.reaper.fm/)
 - [Slack](https://slackhq.com/business-continuity-plan-covid-19)
 - [Slack - Free for Nonprofits](https://slackhq.com/nonprofits-offer-paid-slack-plans-free)
+- [Microsoft Teams - Free](https://products.office.com/microsoft-teams/group-chat-software)
 - [TechSmith - SnagIt, VideoReview free until end of June](https://discover.techsmith.com/remote-techsmith)
 - [Webex is Free](https://www.webex.com/go-covid19.html)
 - [Zencastr](http://blog.zencastr.com/blog/2020/3/17/corona-virus-response-were-lifting-limits-for-hobbyist-users)
