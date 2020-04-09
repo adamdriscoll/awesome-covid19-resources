@@ -179,6 +179,7 @@ Benefits provided by utilities.
 
 ### Tools
 
+- [Animation Domination Zoom Backgrounds](https://www.fox.com/animation-domination/download-zoom-backgrounds/)
 - [Basecamp for COVID19 Responders](https://twitter.com/dhh/status/1240352269704388608?s=20)
 - [Box](https://blog.box.com/box-response-covid-19)
 - [Discourse - 3 Months free for schools](https://twitter.com/discourse/status/1239661198317989889?s=20)
