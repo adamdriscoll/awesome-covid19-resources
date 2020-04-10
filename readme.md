@@ -176,6 +176,7 @@ Benefits provided by utilities.
 ### Guides
 
 - [Super Evil Mega Corp Q1 2020 Remote First Guidelines](https://www.superevilmegacorp.com/blog/2020/3/4/sharing-our-remote-first-processes-tools-and-guidelines-for-fellow-corona-dodgers)
+- [Microsoft Always On VPN Setup Guide](https://www.poweronplatforms.com/free-release-aovpn-baseline/)
 
 ### Tools
 
@@ -194,7 +195,6 @@ Benefits provided by utilities.
 - [Webex is Free](https://www.webex.com/go-covid19.html)
 - [Zencastr](http://blog.zencastr.com/blog/2020/3/17/corona-virus-response-were-lifting-limits-for-hobbyist-users)
 - [Zoom - Free for K-12 Schools](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
-
 
 ## Contribute
 
